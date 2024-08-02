@@ -2,7 +2,7 @@ E-commerce Platform User Behavior and Purchasing Path Analysis
 This project analyzes user behavior and purchasing paths on an e-commerce platform using a dataset from Kaggle. By leveraging MySQL for data cleaning and analysis, the project aims to optimize conversion rates, identify popular products, and enhance marketing strategies through comprehensive data insights.
 
 Overview
-This project utilizes MySQL to process and analyze a dataset obtained from Kaggle, representing an e-commerce platform's user interactions. Analyzed the data from the dimensions of products, users, and time, and used descriptive statistics for data analysis. The analysis focuses on understanding user behavior, purchasing paths, and product popularity.从产品，用户，时间的维度进行了分析，并使用统计学描述性来处理数据
+This project utilizes MySQL to process and analyze a dataset obtained from Kaggle, representing an e-commerce platform's user interactions. Analyzed the data from the dimensions of products, users, and time, and used descriptive statistics for data analysis. The analysis focuses on understanding user behavior, purchasing paths, and product popularity.
 
 Data
 The dataset used in this project is sourced from Kaggle and includes information on user interactions with the e-commerce platform, such as:
